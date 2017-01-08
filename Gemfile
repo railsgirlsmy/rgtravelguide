@@ -41,7 +41,6 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'carrierwave'
 gem 'seed_dump'
-gem 'rails_12factor', group: :production
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
